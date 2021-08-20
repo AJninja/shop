@@ -1,0 +1,103 @@
+# Copyright (C) 2016 Apus Ourstores
+# This file is distributed under the same license as the Apus Ourstores package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Apus Ourstores 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/apus-ourstores\n"
+"POT-Creation-Date: 2020-12-30 10:01:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/post-types/class-post-type-ourstores.php:33
+#: inc/post-types/class-post-type-ourstores.php:45
+msgid "Apus Our Stores"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:34
+msgid "Store"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:35
+#: inc/post-types/class-post-type-ourstores.php:36
+msgid "Add New Store"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:37
+msgid "Edit Store"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:38
+msgid "New Store"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:39
+msgid "All Stores"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:40
+msgid "View Store"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:41
+msgid "Search Store"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:42
+msgid "No Stores found"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:43
+msgid "No Stores found in Trash"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:58
+msgid "ourstores"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:76
+msgid "General Information"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:85
+#: inc/post-types/class-post-type-ourstores.php:121
+msgid "Address"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:90
+#: inc/post-types/class-post-type-ourstores.php:122
+msgid "Phone"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:95
+msgid "Working hours"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:100
+msgid "Maps Latitude"
+msgstr ""
+
+#: inc/post-types/class-post-type-ourstores.php:105
+msgid "Maps Longitude"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Apus Ourstores"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://apusthemes.com/plugins/apus-ourstores/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create Ourstoress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ApusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://apusthemes.com"
+msgstr ""

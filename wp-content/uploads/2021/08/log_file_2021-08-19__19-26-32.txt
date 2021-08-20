@@ -1,0 +1,148 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost:7882/shopping
+Data file = C:\xampp\htdocs\SHOPPING/wp-content/themes/uomo/inc/vendors/one-click-demo-import/data/dummy-data.xml
+Widget file = C:\xampp\htdocs\SHOPPING/wp-content/themes/uomo/inc/vendors/one-click-demo-import/data/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar Default : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Shop Sidebar : 
+
+Product Categories - PRODUCT CATEGORIES - Imported
+Apus Filter Products by Attribute - COLOR - Imported
+Apus Filter Products by Attribute - SIZES - Imported
+Apus Filter Products by Attribute - BRANDS - Imported
+Apus WooCommerce Price Filter List - PRICE - Imported
+
+Shop Filter Sidebar : 
+
+Product Categories - CATEGORIES - Imported
+Apus Filter Products by Attribute - COLORS - Imported
+Apus Filter Products by Attribute - SIZES - Imported
+Apus Filter Products by Attribute - BRANDS - Imported
+Apus WooCommerce Price Filter List - PRICE - Imported
+
+Popup Newsletter : 
+
+Apus Popup Newsletter Widget - Sign Up to Our Newsletter - Imported
+
+Language Footer : 
+
+Text - No Title - Imported
+
+Header Mobile Bottom : 
+
+Text - No Title - Imported
+woocs_selector - Currency - Site does not support widget
+Apus Socials - No Title - Imported
+
+
+
+---ocdi/after_import---
+
